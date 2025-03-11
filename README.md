@@ -1,3 +1,2 @@
-## Hi there 👋
-
+## Bio
 I'm me myself
